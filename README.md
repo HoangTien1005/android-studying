@@ -2,4 +2,4 @@ The repo for my android studying in HCMUS, contains the homework from every week
 
 Usage:
 
-git clone -b <branch-name> https://github.com/HoangTien1005/android-studying.git
+git clone -b \<branch-name\> https://github.com/HoangTien1005/android-studying.git
